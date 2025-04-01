@@ -1,4 +1,4 @@
-![Header](banner.png)
+![Header](banner.pneg)
 
 <h1 align="center">Hi, I'm Rohit 👋</h1>
 
