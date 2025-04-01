@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 About Me
+## 🙂 About Me
 
 - 🎓 **B.Tech student** at Amrita Vishwa Vidyapeetham, specializing in **Artificial Intelligence**
 - 💡 Passionate about **AI, Machine Learning, and Competitive programing**
@@ -34,18 +34,26 @@
 
 ### ⚙️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height=50 width=50>
+<img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width=50 height=50>
+<img alt="VS code" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" height=50 width=50>
+<img alt="PyCharm" src="https://img.icons8.com/?size=100&id=117121&format=png&color=000000" height=50 width=50>
+<img alt="Docker" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" height=50 width=50>
+<img alt="Anaconda" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" height=50 width=50>
+<img alt="Jupyter notebook" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" height=50 width=50>
+
+<!-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) -->
 
 ---
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rohit_Mugalya05?theme=dark&font=Montserrat)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rohit_Mugalya05?theme=dark&font=Aleo&ext=contest)
 
 ---
 
