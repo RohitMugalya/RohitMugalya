@@ -53,9 +53,24 @@
 
 ## 📫 Contact & Profiles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-mugalya-207508324/)
+<a href="https://linkedin.com/in/rohit-mugalya-207508324/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="50" height="50" />
+</a>
+<a href="mailto:rohitmugalya@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="50" height="50" />
+</a>
+<a href="https://leetcode.com/Rohit_Mugalya05/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50" />
+</a>
+<a href="https://x.com/errorproofer" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" alt="Twitter" width="50" height="50" />
+</a>
+
+
+
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-mugalya-207508324/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitmugalya@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rohit_Mugalya05/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/errorproofer)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/errorproofer) -->
 
 ---
