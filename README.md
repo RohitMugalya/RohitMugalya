@@ -47,7 +47,8 @@
 
 ## 📊 LeetCode Stats
 
-![fetching Stats please wait...](https://leetcard.jacoblin.cool/Rohit_Mugalya05?theme=dark&font=Aleo&ext=contest)
+<!-- ![fetching Stats please wait...](https://leetcard.jacoblin.cool/Rohit_Mugalya05?theme=dark&font=Aleo&ext=contest) -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rohit_Mugalya05?theme=catppuccinMocha&font=Arimo&ext=contest)
 
 ---
 
