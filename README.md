@@ -1,4 +1,4 @@
-![Header](banner_dev.png)
+![Failed to load banner.png](banner_dev.png)
 
 ---
 
