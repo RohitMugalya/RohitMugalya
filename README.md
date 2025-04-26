@@ -56,7 +56,7 @@
 ## 📊 LeetCode Stats
 
 <!-- ![fetching Stats please wait...](https://leetcard.jacoblin.cool/Rohit_Mugalya05?theme=dark&font=Aleo&ext=contest) -->
-![Reload the page...](https://leetcard.jacoblin.cool/Rohit_Mugalya05?theme=catppuccinMocha&font=Arimo&ext=contest)
+![Sorry reload the page few times...](https://leetcard.jacoblin.cool/Rohit_Mugalya05?theme=catppuccinMocha&font=Arimo&ext=contest)
 
 ---
 
