@@ -41,7 +41,7 @@
   <img alt="PyCharm" src="https://img.icons8.com/?size=100&id=117121&format=png&color=000000" height=50 width=50>
   <img alt="Jupyter notebook" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" height=50 width=50>
   <img alt="Anaconda" src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" height=50 width=50>
-  <img alt="Google Colab" src="https://colab.research.google.com/img/colab_favicon_256px.png" height=65 width=65>
+  <img alt="Google Colab" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" height=50 width=50>  
   <img alt="Docker" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" height=50 width=50>
 </p>
 
