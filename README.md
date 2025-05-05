@@ -29,6 +29,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -36,7 +38,9 @@
 
 <p>
   <img alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" height=50 width=50>
-  <img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=50 height=50>
+  <img alt="GitHub" src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width=50 height=50>
+  <img alt="SQLite" src="https://img.icons8.com/ios-filled/50/ffffff/sqlite.png" height=50 width=50>
+  <img alt="MySQL" src="https://img.icons8.com/?size=100&id=19672&format=png&color=000000" height=50 width=50>
   <img alt="VS code" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" height=50 width=50>
   <img alt="PyCharm" src="https://img.icons8.com/?size=100&id=117121&format=png&color=000000" height=50 width=50>
   <img alt="Jupyter notebook" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" height=50 width=50>
