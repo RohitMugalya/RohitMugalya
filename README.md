@@ -69,11 +69,11 @@
 
 ---
 
-## 📊 GitHub Activity
+<!-- ## 📊 GitHub Activity
 
 [![Fetching github activity graph please wait...](https://github-readme-activity-graph.vercel.app/graph?username=RohitMugalya&bg_color=222021&color=d76ad0&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+--- -->
 
 ## 📫 Contact & Profiles
 
