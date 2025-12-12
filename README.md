@@ -77,6 +77,9 @@
 
 ## 📫 Contact & Profiles
 
+<a href="https://rohit-mugalya.vercel.app" target="_blank">
+  <img src="portfolio-icon.png" alt="Portfolio Website" width="200" height="50">
+</a>
 <a href="https://linkedin.com/in/rohit-mugalya-207508324/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="50" height="50" />
 </a>
