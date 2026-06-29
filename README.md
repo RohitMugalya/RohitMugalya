@@ -92,6 +92,9 @@
 <a href="https://x.com/errorproofer" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" alt="Twitter" width="50" height="50" />
 </a>
+<a href="https://medium.com/@rohitmugalya" target="_blank">
+  <img src="https://cdn.simpleicons.org/medium/ffffff" width="50" height="50" />
+</a>
 
 
 
